@@ -1,0 +1,43 @@
+COLOR PALETTE
+
+Dark green    #3c8453
+Sandy beige   #bcaa96
+Dark gray     #222222
+Light gray    #d3d4d6
+Off-white     #f6f6f6
+
+/* CSS HEX */
+--peach-yellow: #e1ca96ff;
+--cadet-gray: #91aec1ff;
+--violet-jtc: #522b47ff;
+--black-olive: #313628ff;
+--black-olive-2: #434a42ff;
+
+/* CSS HSL */
+--peach-yellow: hsla(42, 56%, 74%, 1);
+--cadet-gray: hsla(204, 28%, 66%, 1);
+--violet-jtc: hsla(317, 31%, 25%, 1);
+--black-olive: hsla(81, 15%, 18%, 1);
+--black-olive-2: hsla(113, 6%, 27%, 1);
+
+/* SCSS HEX */
+$peach-yellow: #e1ca96ff;
+$cadet-gray: #91aec1ff;
+$violet-jtc: #522b47ff;
+$black-olive: #313628ff;
+$black-olive-2: #434a42ff;
+
+/* SCSS HSL */
+$peach-yellow: hsla(42, 56%, 74%, 1);
+$cadet-gray: hsla(204, 28%, 66%, 1);
+$violet-jtc: hsla(317, 31%, 25%, 1);
+$black-olive: hsla(81, 15%, 18%, 1);
+$black-olive-2: hsla(113, 6%, 27%, 1);
+
+/* SCSS RGB */
+$peach-yellow: rgba(225, 202, 150, 1);
+$cadet-gray: rgba(145, 174, 193, 1);
+$violet-jtc: rgba(82, 43, 71, 1);
+$black-olive: rgba(49, 54, 40, 1);
+$black-olive-2: rgba(67, 74, 66, 1);
+
